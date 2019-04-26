@@ -1,0 +1,10 @@
+C:\Users\x\source\repos\rl sound bug fix\rl sound bug fix\bin\Debug\rl sound bug fix.exe.config
+C:\Users\x\source\repos\rl sound bug fix\rl sound bug fix\bin\Debug\rl sound bug fix.exe
+C:\Users\x\source\repos\rl sound bug fix\rl sound bug fix\bin\Debug\rl sound bug fix.pdb
+C:\Users\x\source\repos\rl sound bug fix\rl sound bug fix\obj\Debug\rl sound bug fix.csprojAssemblyReference.cache
+C:\Users\x\source\repos\rl sound bug fix\rl sound bug fix\obj\Debug\rl_sound_bug_fix.Form1.resources
+C:\Users\x\source\repos\rl sound bug fix\rl sound bug fix\obj\Debug\rl_sound_bug_fix.Properties.Resources.resources
+C:\Users\x\source\repos\rl sound bug fix\rl sound bug fix\obj\Debug\rl sound bug fix.csproj.GenerateResource.cache
+C:\Users\x\source\repos\rl sound bug fix\rl sound bug fix\obj\Debug\rl sound bug fix.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\rl sound bug fix\rl sound bug fix\obj\Debug\rl sound bug fix.exe
+C:\Users\x\source\repos\rl sound bug fix\rl sound bug fix\obj\Debug\rl sound bug fix.pdb
